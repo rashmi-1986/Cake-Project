@@ -1,0 +1,52 @@
+  body  {
+        
+    background-image: url("Cupcake images/Background img.jpg");
+    background-size: cover;      
+        
+    
+}
+
+
+menu
+{
+  width: 250px;
+  float: left;
+  height: 250px;
+}
+ul
+{
+float:left ;
+display:flex;
+justify-content:center;
+align-items:calc();
+
+}
+ ul li
+ {
+  
+ margin-left: 50px;
+
+font-size: 25px;
+
+ }
+ Cupcake
+{
+border: 100px;px solid black;
+height: 500px;
+margin: 10px;
+}
+cards
+{
+    width: 30px;
+    border-radius: 5px;
+    margin: 40px;
+    box-shadow: 2px;
+}
+.img Unicorn cupcake
+{
+width: 100%;
+ border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+
+
+}
