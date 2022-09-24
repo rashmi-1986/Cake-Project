@@ -1,18 +1,18 @@
-body   {
-    background-image: url("Cupcake images/Background img.jpg");
-    background-size: cover; 
-    }
-
-    menu
+    
+ body{
+  background-image:url("Cupcake images/Cakery.JPG" );
+  background-size: cover;
+ }
+ menu
 {
-  width: 150px;
+  width: 450px;
   float: inline-start; 
   height: 50px;
 }
 ul
 {
-float:left ;
-display:flex;
+
+  display:flex;
 justify-content:center;
 align-items:center;
 
@@ -25,10 +25,10 @@ margin-top: 20px;
 font-size: 35px;
 
  }
-p
+about
 {
-align-items: center;
-
-
+ text-align:center;
 }
 
+
+ 

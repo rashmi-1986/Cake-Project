@@ -1,3 +1,10 @@
+  *{
+
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  
   body  {
         
     background-image: url("Cupcake images/Background img.jpg");
@@ -31,7 +38,7 @@ font-size: 25px;
  }
  Cupcake
 {
-border: 100px;px solid black;
+border: 100px solid black;
 height: 500px;
 margin: 10px;
 }
@@ -42,11 +49,26 @@ cards
     margin: 40px;
     box-shadow: 2px;
 }
-.img Unicorn cupcake
+.img Unicorn
 {
 width: 100%;
  border-top-right-radius: 5px;
   border-top-left-radius: 5px;
 
 
+}
+button
+{
+margin-top: 30px;
+margin-bottom: 30px;
+background-color: white;
+border: 1px solid black;
+padding: 5px;
+border-radius: 5px;
+
+}
+button:hover
+{
+  background-color: black;
+  color: white;
 }

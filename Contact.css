@@ -1,4 +1,5 @@
-body   {
+
+  body   {
     background-image: url("Cupcake images/Background img.jpg");
     background-size: cover; 
     }
@@ -28,7 +29,6 @@ font-size: 35px;
 p
 {
 align-items: center;
-
-
 }
+
 
